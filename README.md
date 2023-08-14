@@ -69,7 +69,12 @@ npm start
 http://localhost:3000
 ```
 
-  
+<h2>👨🏻‍💻 Contributing Steps:</h2>
+
+<p>1. Fork the repo</p>
+
+<p>2. Follow the Installation Steps </p>
+
   
 <h2>💻 Built with</h2>
 
